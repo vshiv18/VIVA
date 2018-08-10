@@ -79,7 +79,7 @@ extend_chromosomes = function(bed, chromosome, prefix = "zoom_") {
 ui <- navbarPage(
    
    # Application title
-   "Variant summary",
+   "VIVA",
   
    
    tabPanel("Upload data",
